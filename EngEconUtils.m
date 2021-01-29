@@ -1,3 +1,5 @@
+% Copyright (c) 2021, William Chu
+
 classdef EngEconUtils
     
     methods(Static)
